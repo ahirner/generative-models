@@ -1,5 +1,5 @@
 # Generative Models: SpyGAN
-[Pytorch implementation](https://github.com/ahirner/generative-models/tree/master/GAN/spy_gan) with collaborative weight sharing between D and G. Extended from Vanilla GAN in the collection of generative models by [wiseodd][https://github.com/wiseodd/generative-models].
+[Pytorch implementation](https://github.com/ahirner/generative-models/tree/master/GAN/spy_gan) with collaborative weight sharing between D and G. Extended from Vanilla GAN in the collection of generative models by [wiseodd](https://github.com/wiseodd/generative-models).
 
 ## Results
 ![alt-text](https://raw.githubusercontent.com/ahirner/generative-models/master/GAN/spy_gan/SpyGAN.png)
